@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FLKAutoLayout (0.2.1)
+  - MBProgressHUD (0.9.2)
+  - ORStackView (3.0.1):
+    - FLKAutoLayout (~> 0.2)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6)
+  - MBProgressHUD (~> 0.9.2)
+  - ORStackView (~> 3.0)
+  - SDWebImage (~> 3.7.6)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  FLKAutoLayout: 9db6b30c2008d230da608e62c607b11c23b942e6
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  ORStackView: a1bb52748cd0ae29891c140baf22ff8972fb363c
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: bdc735afb2f65f84f9e67818b24740452ca64dac
+
+COCOAPODS: 1.0.0
